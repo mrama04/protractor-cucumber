@@ -1,0 +1,78 @@
+[
+  {
+    "description": "Wrapping WebDriver",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": false,
+        "errorMsg": "Step timed out after 10000 milliseconds",
+        "stackTrace": "Error: Step timed out after 10000 milliseconds\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)"
+      }
+    ],
+    "duration": 10006915906
+  },
+  {
+    "description": "Google Search",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1555274738
+  },
+  {
+    "description": "Wrapping WebDriver",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1431422225
+  },
+  {
+    "description": "Wrapping WebDriver",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": false,
+        "errorMsg": "Step timed out after 10000 milliseconds",
+        "stackTrace": "Error: Step timed out after 10000 milliseconds\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)"
+      }
+    ],
+    "duration": 10013936007
+  },
+  {
+    "description": "Google Search",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1334575343
+  },
+  {
+    "description": "Wrapping WebDriver",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1792713173
+  }
+]
